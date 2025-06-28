@@ -1,0 +1,7 @@
+{
+  "manual_url": "https://raw.githubusercontent.com/joaovitor9992/exho-manuais-ia/main/manual.exho.txt",
+  "base_prompt_url": "https://raw.githubusercontent.com/joaovitor9992/exho-manuais-ia/main/base.json",
+  "formal_prompt_url": "https://raw.githubusercontent.com/joaovitor9992/exho-manuais-ia/main/formal.json",
+  "humano_prompt_url": "https://raw.githubusercontent.com/joaovitor9992/exho-manuais-ia/main/humano.json",
+  "saudacao_prompt_url": "https://raw.githubusercontent.com/joaovitor9992/exho-manuais-ia/main/saudacao.json"
+}
